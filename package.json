@@ -1,0 +1,19 @@
+{
+    "name": "com.foreverplane.statemachine",
+    "version": "1.0.0",
+    "displayName": "Simple state machine",
+    "description": "State machine with transactions and triggers",
+    "dependencies": {
+
+   },
+   "keywords": [
+      "State",
+      "Machine",
+      "Transactions"
+    ],
+    "author": {
+      "name": "Foreverplane",
+      "email": "foreverplane@gmail.com"
+
+    }
+  }
